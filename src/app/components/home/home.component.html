@@ -1,0 +1,11 @@
+<div class="back-image">
+    <h1>Sepultura</h1>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/sepultura-logo-png-transparent.png" height=500px width=500px>
+    <p>Search album</p>
+    <select name="album" id="album" [(ngModel)]="selectedAlbum">
+        <option *ngFor=" let album of albums" [value]="album.name">{{album.name}}</option>
+    </select>
+    <br>
+    <br>
+    <button (click)="searchMusicsByAlbum()">Search</button>
+</div>

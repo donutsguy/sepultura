@@ -1,0 +1,16 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.image-container img {
+    max-width: 100px;
+    height: 70px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 200px;
+}

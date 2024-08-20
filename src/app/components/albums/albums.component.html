@@ -1,0 +1,7 @@
+<div class="album" *ngFor="let album of albums">
+    <p>{{album.name}} - {{album.date}}</p>
+    <img src="{{album.image}}">
+    <ng-container *ngFor="let music of getMusicsForAlbum(album.name)">
+        <app-musics [music]="music"></app-musics>
+    </ng-container>
+</div>

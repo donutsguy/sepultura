@@ -1,0 +1,20 @@
+.album {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    overflow: hidden;
+}
+
+p {
+    color: #BF1622;
+    margin-left: 80px;
+}
+
+img {
+    float: left;
+    margin-right: 50px;
+    margin-left: 80px;
+    width: 800px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.5);
+}

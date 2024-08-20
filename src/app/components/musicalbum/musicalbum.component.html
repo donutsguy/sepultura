@@ -1,0 +1,10 @@
+<div>
+    <div class="album" *ngFor="let album of albumMusic">
+        <p>{{album.name}} - {{album.date}}</p>
+        <img src="{{album.image}}">
+        <p class="music-item" *ngFor="let music of musics"> {{ music.name }} | {{music.time}}</p>
+    </div>
+</div>
+<div *ngIf="!musics">
+    <p>Parâmetro do álbum não fornecido.</p>
+</div>

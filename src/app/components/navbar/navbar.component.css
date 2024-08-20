@@ -1,0 +1,27 @@
+nav {
+    width: 100vw;
+    background-color: rgb(22, 21, 21);
+    height: 80px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    list-style: none;
+    align-items: center;
+    height: 100%;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+nav ul li {
+    transition: 0.2s;
+}
+
+nav ul li:hover {
+    transform: scale(1.1);
+}

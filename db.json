@@ -1,0 +1,1008 @@
+{
+    "musics": [
+        {
+            "name": "Arise",
+            "time": "3:18",
+            "album": "Arise"
+        },
+        {
+            "name": "Dead Embryonic Cells",
+            "time": "4:52",
+            "album": "Arise"
+        },
+        {
+            "name": "Desperate Cry",
+            "time": "6:41",
+            "album": "Arise"
+        },
+        {
+            "name": "Murder",
+            "time": "3:26",
+            "album": "Arise"
+        },
+        {
+            "name": "Subtraction",
+            "time": "4:48",
+            "album": "Arise"
+        },
+        {
+            "name": "Altered State",
+            "time": "6:34",
+            "album": "Arise"
+        },
+        {
+            "name": "Under Siege (Regnum Irae)",
+            "time": "4:54",
+            "album": "Arise"
+        },
+        {
+            "name": "Meaningless Movements",
+            "time": "4:41",
+            "album": "Arise"
+        },
+        {
+            "name": "Infected Voice",
+            "time": "3:19",
+            "album": "Arise"
+        },
+        {
+            "name": "Roots Bloody Roots",
+            "time": "3:33",
+            "album": "Roots"
+        },
+        {
+            "name": "Attitude",
+            "time": "4:16",
+            "album": "Roots"
+        },
+        {
+            "name": "Cut-Throat",
+            "time": "2:45",
+            "album": "Roots"
+        },
+        {
+            "name": "Ratamahatta",
+            "time": "4:31",
+            "album": "Roots"
+        },
+        {
+            "name": "Breed Apart",
+            "time": "4:02",
+            "album": "Roots"
+        },
+        {
+            "name": "Straighthate",
+            "time": "5:22",
+            "album": "Roots"
+        },
+        {
+            "name": "Spit",
+            "time": "2:46",
+            "album": "Roots"
+        },
+        {
+            "name": "Lookaway",
+            "time": "5:26",
+            "album": "Roots"
+        },
+        {
+            "name": "Dusted",
+            "time": "4:04",
+            "album": "Roots"
+        },
+        {
+            "name": "Born Stubborn",
+            "time": "4:08",
+            "album": "Roots"
+        },
+        {
+            "name": "Jasco",
+            "time": "1:58",
+            "album": "Roots"
+        },
+        {
+            "name": "Itsári",
+            "time": "4:49",
+            "album": "Roots"
+        },
+        {
+            "name": "Ambush",
+            "time": "4:39",
+            "album": "Roots"
+        },
+        {
+            "name": "Endangered Species",
+            "time": "5:21",
+            "album": "Roots"
+        },
+        {
+            "name": "Dictatorshit",
+            "time": "1:25",
+            "album": "Roots"
+        },
+        {
+            "name": "Canyon Jam",
+            "time": "13:20",
+            "album": "Roots"
+        },
+        {
+            "name": "Refuse/Resist",
+            "time": "3:19",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Territory",
+            "time": "4:47",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Slave New World",
+            "time": "2:55",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Amen",
+            "time": "4:27",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Kaiowas",
+            "time": "3:43",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Propaganda",
+            "time": "3:33",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Biotech Is Godzilla",
+            "time": "1:52",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Nomad",
+            "time": "4:59",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "We Who Are Not as Others",
+            "time": "3:42",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Manifest",
+            "time": "4:49",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "The Hunt",
+            "time": "3:59",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Clenched Fist",
+            "time": "4:58",
+            "album": "Chaos A.D."
+        },
+        {
+            "name": "Beneath the Remains",
+            "time": "5:14",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Inner Self",
+            "time": "5:10",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Stronger Than Hate",
+            "time": "5:53",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Mass Hypnosis",
+            "time": "4:25",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Sarcastic Existence",
+            "time": "4:44",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Slaves of Pain",
+            "time": "4:01",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Lobotomy",
+            "time": "4:58",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Hungry",
+            "time": "4:30",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Primitive Future",
+            "time": "3:09",
+            "album": "Beneath the Remains"
+        },
+        {
+            "name": "Morbid Visions",
+            "time": "3:23",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Mayhem",
+            "time": "3:15",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Troops of Doom",
+            "time": "3:21",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "War",
+            "time": "5:31",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Crucifixion",
+            "time": "5:00",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Show Me the Wrath",
+            "time": "3:53",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Funeral Rites",
+            "time": "4:23",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Empire of the Damned",
+            "time": "4:26",
+            "album": "Morbid Visions"
+        },
+        {
+            "name": "Antichrist",
+            "time": "3:46",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "From the Past Comes the Storms",
+            "time": "4:57",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "To the Wall",
+            "time": "5:36",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "Escape to the Void",
+            "time": "4:41",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "Inquisition Symphony",
+            "time": "7:13",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "Screams Behind the Shadows",
+            "time": "4:49",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "Septic Schizo",
+            "time": "4:30",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "The Abyss",
+            "time": "1:00",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "R.I.P. (Rest in Pain)",
+            "time": "4:36",
+            "album": "Schizophrenia"
+        },
+        {
+            "name": "The Vatican",
+            "time": "6:34",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Trauma of War",
+            "time": "3:47",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Impending Doom",
+            "time": "4:16",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Manipulation of Tragedy",
+            "time": "4:16",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Tsunami",
+            "time": "5:10",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "The Bliss of Ignorants",
+            "time": "4:51",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Grief",
+            "time": "5:34",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "The Age of the Atheist",
+            "time": "4:19",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Obsessed",
+            "time": "3:55",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Da Lama ao Caos",
+            "time": "2:39",
+            "album": "The Mediator Between Head and Hands Must Be the Heart"
+        },
+        {
+            "name": "Isolation",
+            "time": "4:56",
+            "album": "Quadra"
+        },
+        {
+            "name": "Means to an End",
+            "time": "4:40",
+            "album": "Quadra"
+        },
+        {
+            "name": "Last Time",
+            "time": "4:43",
+            "album": "Quadra"
+        },
+        {
+            "name": "Capital Enslavement",
+            "time": "3:40",
+            "album": "Quadra"
+        },
+        {
+            "name": "Ali",
+            "time": "3:40",
+            "album": "Quadra"
+        },
+        {
+            "name": "Raging Void",
+            "time": "4:06",
+            "album": "Quadra"
+        },
+        {
+            "name": "Guardians of Earth",
+            "time": "5:11",
+            "album": "Quadra"
+        },
+        {
+            "name": "The Pentagram",
+            "time": "5:20",
+            "album": "Quadra"
+        },
+        {
+            "name": "Autem",
+            "time": "5:02",
+            "album": "Quadra"
+        },
+        {
+            "name": "Quadra",
+            "time": "2:04",
+            "album": "Quadra"
+        },
+        {
+            "name": "Agony of Defeat",
+            "time": "7:14",
+            "album": "Quadra"
+        },
+        {
+            "name": "Fear, Pain, Chaos, Suffering",
+            "time": "4:13",
+            "album": "Quadra"
+        },
+        {
+            "name": "Against",
+            "time": "1:54",
+            "album": "Against"
+        },
+        {
+            "name": "Choke",
+            "time": "3:36",
+            "album": "Against"
+        },
+        {
+            "name": "Rumors",
+            "time": "3:05",
+            "album": "Against"
+        },
+        {
+            "name": "Old Earth",
+            "time": "4:29",
+            "album": "Against"
+        },
+        {
+            "name": "Floaters in Mud",
+            "time": "4:57",
+            "album": "Against"
+        },
+        {
+            "name": "Boycott",
+            "time": "3:09",
+            "album": "Against"
+        },
+        {
+            "name": "Tribus",
+            "time": "1:38",
+            "album": "Against"
+        },
+        {
+            "name": "Common Bonds",
+            "time": "2:59",
+            "album": "Against"
+        },
+        {
+            "name": "F.O.E.",
+            "time": "2:08",
+            "album": "Against"
+        },
+        {
+            "name": "Reza",
+            "time": "2:17",
+            "album": "Against"
+        },
+        {
+            "name": "Unconscious",
+            "time": "3:37",
+            "album": "Against"
+        },
+        {
+            "name": "Kamaitachi",
+            "time": "3:03",
+            "album": "Against"
+        },
+        {
+            "name": "Drowned Out",
+            "time": "1:28",
+            "album": "Against"
+        },
+        {
+            "name": "Hatred Aside",
+            "time": "5:14",
+            "album": "Against"
+        },
+        {
+            "name": "T3rcermillennium",
+            "time": "3:56",
+            "album": "Against"
+        },
+        {
+            "name": "Spectrum",
+            "time": "4:03",
+            "album": "Kairos"
+        },
+        {
+            "name": "Kairos",
+            "time": "3:33",
+            "album": "Kairos"
+        },
+        {
+            "name": "Relentless",
+            "time": "3:37",
+            "album": "Kairos"
+        },
+        {
+            "name": "2011",
+            "time": "0:30",
+            "album": "Kairos"
+        },
+        {
+            "name": "Just One Fix",
+            "time": "3:32",
+            "album": "Kairos"
+        },
+        {
+            "name": "Dialog",
+            "time": "4:55",
+            "album": "Kairos"
+        },
+        {
+            "name": "Mask",
+            "time": "4:30",
+            "album": "Kairos"
+        },
+        {
+            "name": "1433",
+            "time": "0:30",
+            "album": "Kairos"
+        },
+        {
+            "name": "Seethe",
+            "time": "2:27",
+            "album": "Kairos"
+        },
+        {
+            "name": "Born Strong",
+            "time": "4:40",
+            "album": "Kairos"
+        },
+        {
+            "name": "Embrace the Storm",
+            "time": "3:30",
+            "album": "Kairos"
+        },
+        {
+            "name": "5772",
+            "time": "0:26",
+            "album": "Kairos"
+        },
+        {
+            "name": "No One Will Stand",
+            "time": "3:17",
+            "album": "Kairos"
+        },
+        {
+            "name": "Structure Violence (Azzes)",
+            "time": "5:40",
+            "album": "Kairos"
+        },
+        {
+            "name": "Sepultura Under Siege",
+            "time": "0:56",
+            "album": "Nation"
+        },
+        {
+            "name": "Arise",
+            "time": "3:13",
+            "album": "Nation"
+        },
+        {
+            "name": "Inner Self",
+            "time": "4:13",
+            "album": "Nation"
+        },
+        {
+            "name": "Slavery",
+            "time": "2:52",
+            "album": "Nation"
+        },
+        {
+            "name": "One Man Army",
+            "time": "4:21",
+            "album": "Nation"
+        },
+        {
+            "name": "Manifest",
+            "time": "4:22",
+            "album": "Nation"
+        },
+        {
+            "name": "Choke",
+            "time": "3:31",
+            "album": "Nation"
+        },
+        {
+            "name": "Clenched Fists",
+            "time": "3:56",
+            "album": "Nation"
+        },
+        {
+            "name": "Firestarter",
+            "time": "2:49",
+            "album": "Nation"
+        },
+        {
+            "name": "Inner Self",
+            "time": "4:13",
+            "album": "Nation"
+        },
+        {
+            "name": "The People",
+            "time": "3:56",
+            "album": "Nation"
+        },
+        {
+            "name": "No Peace",
+            "time": "3:45",
+            "album": "Nation"
+        },
+        {
+            "name": "Border Wars",
+            "time": "2:54",
+            "album": "Nation"
+        },
+        {
+            "name": "Machine Messiah",
+            "time": "4:18",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Phantom Self",
+            "time": "4:15",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Alethea",
+            "time": "4:04",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "I Am the Enemy",
+            "time": "3:21",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Robo",
+            "time": "4:07",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Sworn Oath",
+            "time": "4:22",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Resistant Parasites",
+            "time": "3:28",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Silent Violence",
+            "time": "3:31",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Vandals Nest",
+            "time": "3:30",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Blood Moon",
+            "time": "4:05",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Cyber God",
+            "time": "4:36",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "The Pentagram",
+            "time": "3:27",
+            "album": "Machine Messiah"
+        },
+        {
+            "name": "Inner Self",
+            "time": "4:06",
+            "album": "Roorback"
+        },
+        {
+            "name": "Roorback",
+            "time": "3:13",
+            "album": "Roorback"
+        },
+        {
+            "name": "Propaganda",
+            "time": "4:02",
+            "album": "Roorback"
+        },
+        {
+            "name": "Corrupted",
+            "time": "2:51",
+            "album": "Roorback"
+        },
+        {
+            "name": "Hate",
+            "time": "4:09",
+            "album": "Roorback"
+        },
+        {
+            "name": "Mass Hypnosis",
+            "time": "3:45",
+            "album": "Roorback"
+        },
+        {
+            "name": "The Ways of the Cross",
+            "time": "3:18",
+            "album": "Roorback"
+        },
+        {
+            "name": "Drowned Out",
+            "time": "3:56",
+            "album": "Roorback"
+        },
+        {
+            "name": "Choke",
+            "time": "3:33",
+            "album": "Roorback"
+        },
+        {
+            "name": "F.O.E.",
+            "time": "2:30",
+            "album": "Roorback"
+        },
+        {
+            "name": "Powerslave",
+            "time": "3:58",
+            "album": "Roorback"
+        },
+        {
+            "name": "A Letra",
+            "time": "3:55",
+            "album": "Roorback"
+        },
+        {
+            "name": "Roorback (Reprise)",
+            "time": "3:01",
+            "album": "Roorback"
+        },
+        {
+            "name": "A-Lex I",
+            "time": "1:15",
+            "album": "A-Lex"
+        },
+        {
+            "name": "Molotov",
+            "time": "3:46",
+            "album": "A-Lex"
+        },
+        {
+            "name": "The Treatment",
+            "time": "3:36",
+            "album": "A-Lex"
+        },
+        {
+            "name": "What I Do!",
+            "time": "4:04",
+            "album": "A-Lex"
+        },
+        {
+            "name": "Not the Same",
+            "time": "3:48",
+            "album": "A-Lex"
+        },
+        {
+            "name": "Paradox",
+            "time": "4:03",
+            "album": "A-Lex"
+        },
+        {
+            "name": "The Age of the Atheist",
+            "time": "3:34",
+            "album": "A-Lex"
+        },
+        {
+            "name": "Scribe",
+            "time": "3:50",
+            "album": "A-Lex"
+        },
+        {
+            "name": "War",
+            "time": "3:43",
+            "album": "A-Lex"
+        },
+        {
+            "name": "Contradictions",
+            "time": "4:04",
+            "album": "A-Lex"
+        },
+        {
+            "name": "The Rites of Passage",
+            "time": "4:29",
+            "album": "A-Lex"
+        },
+        {
+            "name": "A-Lex II",
+            "time": "2:07",
+            "album": "A-Lex"
+        },
+        {
+            "name": "A-Lex III",
+            "time": "2:11",
+            "album": "A-Lex"
+        },
+        {
+            "name": "Isolation",
+            "time": "04:56",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Means to an End",
+            "time": "04:39",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Last Time",
+            "time": "04:27",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Capital Enslavement",
+            "time": "03:40",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Ali",
+            "time": "04:12",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Raging Void",
+            "time": "03:57",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Guardians of Earth",
+            "time": "05:11",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "The Pentagram",
+            "time": "05:20",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Autem",
+            "time": "04:06",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Quadra",
+            "time": "00:46",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Agony of Defeat",
+            "time": "05:51",
+            "album": "SepulQuarta"
+        },
+        {
+            "name": "Fear, Pain, Chaos, Suffering",
+            "time": "04:09",
+            "album": "SepulQuarta"
+        }
+    ],
+    "albums": [
+        {
+            "name": "Roots",
+            "date": "1996",
+            "image": "https://m.media-amazon.com/images/I/81tvqy8vZSL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "Arise",
+            "date": "1991",
+            "image": "https://rollingstone.uol.com.br/media/uploads/arise_sepultura_30_anos.jpg"
+        },
+        {
+            "name": "Chaos A.D.",
+            "date": "1993",
+            "image": "https://m.media-amazon.com/images/I/91FPsiYg7NL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "Schizophrenia",
+            "date": "1987",
+            "image": "https://i.discogs.com/kHYLhg7MDB6WfFAR220PZd8L2B_IdWrtGNiCWFroEnk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM0/My0xNjAzNjEzNTE3/LTU0MDQuanBlZw.jpeg"
+        },
+        {
+            "name": "Beneath the Remains",
+            "date": "1989",
+            "image": "https://m.media-amazon.com/images/I/71g4tn9SWGL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "Morbid Visions",
+            "date": "1986",
+            "image": "https://blackrockstore.com.br/wp-content/uploads/2023/02/1986MorbidVisions.jpg"
+        },
+        {
+            "name": "Quadra",
+            "date": "2020",
+            "image": "https://m.media-amazon.com/images/I/91lp8xjZmoL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "Against",
+            "date": "1998",
+            "image": "https://i.discogs.com/SHNuOZyv3xtWTKyCaJK_egHidbXQg0Ed7Ct13kHI9QE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjY5/NzktMTQ1NTY0Mzgx/MS04MzM4LmpwZWc.jpeg"
+        },
+        {
+            "name": "Kairos",
+            "date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e45315590609aff23517aa3"
+        },
+        {
+            "name": "Nation",
+            "date": "2001",
+            "image": "https://m.media-amazon.com/images/I/61yspKhsRSL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "Machine Messiah",
+            "date": "2017",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/d/de/Machine_Messiah_-_Sepultura.jpg"
+        },
+        {
+            "name": "Roorback",
+            "date": "2003",
+            "image": "https://m.media-amazon.com/images/I/71QmfsOHdTL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "SepulQuarta",
+            "date": "2021",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730deee5bb285f26bf9a738a84"
+        },
+        {
+            "name": "The Mediator Between Head and Hands Must Be the Heart",
+            "date": "2013",
+            "image": "https://m.media-amazon.com/images/I/81smtpUW-7L._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "name": "A-Lex",
+            "date": "2009",
+            "image": "https://m.media-amazon.com/images/I/71ZFwUsimDL._AC_UF1000,1000_QL80_.jpg"
+        }
+    ],
+    "biographys": [
+        {
+            "year": 1984,
+            "description": "Sepultura, uma das mais importantes e conhecidas bandas de thrash metal do mundo, nasceu em 1984, em Belo Horizonte (MG), sendo formada inicialmente por Paulo Jr. (baixo), Jairo Guedez (guitarra), Max (guitarra e vocal) e Igor Cavalera (bateria)."
+        },
+        {
+            "year": 1985,
+            "description": "Em 1984 durante uma apresentação da banda em um festival em Belo Horizonte eles são 'descobertos' pela gravadora Cogumelo Records. Logo após assinarem o contrato a banda já decide gravar seu primeiro álbum. Gravado em 2 dias, foi intitulado 'Bestial Devastation'."
+        },
+        {
+            "year": 1986,
+            "description": "Ainda nos anos 1980, o Sepultura surgiu como uma força brasileira no metal extremo. O primeiro álbum, 'Morbid Visions' (1986), ajudou a estabelecer a banda na cena underground internacional."
+        },
+        {
+            "year": 1987,
+            "description": "O segundo álbum, 'Schizophrenia' (1987), continuou a solidificar a presença do Sepultura no metal extremo e na cena underground internacional."
+        },
+        {
+            "year": 1989,
+            "description": "Foi com o álbum 'Beneath the Remains' (1989) que o Sepultura começou a ganhar reconhecimento global. Esse foi o verdadeiro início do sucesso internacional do Sepultura, que teve mais de 800 mil cópias vendidas de seu álbum ao redor do mundo."
+        },
+        {
+            "year": 1991,
+            "description": "Em 2 de abril de 1991 a banda lança seu novo álbum 'Arise', um enorme sucesso internacional, chegando a ficar 119º lugar na Billboard 200 nos EUA e vendendo mais de 1 milhão de cópias ao redor do mundo, além de render as primeiras certificações de vendas internacionais."
+        },
+        {
+            "year": 1996,
+            "description": "Com o tempo, a sonoridade foi mudando até chegar ao que foi apresentado em 'Roots', contendo grandes influências da cultura brasileira. O álbum lançado em 20 de fevereiro de 1996 tornou a banda em um fenômeno mundial."
+        },
+        {
+            "year": 1996,
+            "description": "Em dezembro de 1996, chega a notícia que mudaria completamente o rumo da banda: Max Cavalera deixaria a banda, mudando os rumos da banda e dando espaço a uma nova formação."
+        },
+        {
+            "year": 2000,
+            "description": "Derrick Green assumiu os vocais, e a banda lançou 'Against'. O álbum mostrou uma nova direção para a banda, com Derrick trazendo sua própria influência ao som do Sepultura. Outros álbuns foram lançados, como 'Nation', 'Kairos' e 'Quadra', simbolizando uma nova era do Sepultura."
+        },
+        {
+            "year": 2024,
+            "description": "Sepultura anunciou o fim de suas atividades em 2024, anunciando sua turnê de despedida. A banda é reconhecida como uma das mais importantes no cenário do metal global, com uma carreira que se estende por quase quatro décadas."
+        }
+    ]
+}
